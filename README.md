@@ -1,3 +1,11 @@
+# Landing page practice: Island
+- Tried awesome youtube tutorial
+## Reference
+- [Youtube: Build landing page with React and Material UI.
+](https://www.youtube.com/watch?v=rK0Lz8x7npA)
+- [Chensokheng/island](https://github.com/Chensokheng/island)
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
